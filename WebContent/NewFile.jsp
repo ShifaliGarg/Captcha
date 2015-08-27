@@ -14,7 +14,7 @@
  </script>
   </head>
   <body>
-  <!--   <form action="?" method="POST">
+    <form action="?" method="POST">
       <div id="id"></div>
       <br>
       <input type="submit" value="Submit">
@@ -22,11 +22,11 @@
     <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit"
         async defer>
     </script>
-     -->
+     
   </body>
-  
+ <!--  
  <noscript>
    <iframe src="https://www.google.com/recaptcha/api/noscript?k=6Le7ngsTAAAAAPe3UjxtPUNtsiBbsJAP4-gSYjiP"
        height="300" width="500" frameborder="0" ></iframe><br>
- </noscript>
+ </noscript> --> 
 </html>
